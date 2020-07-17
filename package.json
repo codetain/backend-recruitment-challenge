@@ -55,7 +55,7 @@
     "express-request-id": "1.4.1",
     "helmet": "3.21.2",
     "http-status": "1.4.2",
-    "lodash": "4.17.15",
+    "lodash": "4.17.19",
     "morgan": "1.9.1",
     "morgan-body": "2.4.8"
   }
